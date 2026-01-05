@@ -1,0 +1,9 @@
+{
+  "name": "3 SoWork Win 2026",
+  "description": "An AI-powered election brand intelligence platform for the 2026 Taiwan elections, featuring strategic insights, content generation, and legal compliance auditing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
